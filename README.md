@@ -21,7 +21,6 @@ investpy to be one of the most consistent packages when it comes to financial da
 [![Package Status](https://img.shields.io/pypi/status/investpy.svg)](https://pypi.org/project/investpy/)
 [![Build Status](https://github.com/alvarobartt/investpy/workflows/run_tests/badge.svg)](https://github.com/alvarobartt/investpy/actions?query=workflow%3Arun_tests)
 [![Documentation Status](https://readthedocs.org/projects/investpy/badge/?version=latest)](https://investpy.readthedocs.io/)
-[![Code Coverage](https://codecov.io/gh/alvarobartt/investpy/branch/master/graph/badge.svg)](https://codecov.io/gh/alvarobartt/investpy)
 
 **If you want to support the project, you can buy the developer a coffee. More information at: [buy-me-a-coffee](https://github.com/alvarobartt/buy-me-a-coffee)**
 
@@ -190,6 +189,7 @@ combined with investpy:
 
 - [pyrtfolio](https://github.com/alvarobartt/pyrtfolio/): is a Python package to generate stock portfolios.
 - [trendet](https://github.com/alvarobartt/trendet/): is a Python package for trend detection on stock time-series data.
+- [pypme](https://github.com/ymyke/pypme): is a Python package for PME (Public Market Equivalent) calculation
 
 If you developed an interesting/useful project based on investpy data, please open an issue to let me know to 
 include it in this section.
